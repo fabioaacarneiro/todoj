@@ -33,7 +33,7 @@ A Todo web app created using spring boot 3 with Java 17 and H2 database on backa
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fabioaacarneiro/todoj/master/img/print-todoj.png" width="350" title="img example">
+  <img src="https://raw.githubusercontent.com/fabioaacarneiro/todoj/master/img/print-todoj.png" width="550" title="img example">
 </p>
 
 <p align="center">
