@@ -2,7 +2,8 @@
 <h2>ToDoJ</h2>
 A Todo web app created using spring boot 3 with Java 17 and H2 database on backand and vue3 with typescript, composition and scss on frontend
 
-<ol>On backend: (todoj)
+<h2>On backend: (todoj)</h2>
+<ul>
 <li>java 17 LTS</li>
 <li>Spring Boot 3</li>
 <li>Spring Boot Starter web</li>
@@ -15,9 +16,10 @@ A Todo web app created using spring boot 3 with Java 17 and H2 database on backa
 <li>Maven</li>
 <li>Lombok</li>
 <li>-> Java Spring Boot 3 <-</li>
-</ol>
+</ul>
 
-<ol>On frontend: (todoj-client)
+<h2>On frontend: (todoj-client)</h2>
+<ul>
 <li>Typescript 4.8.4</li>
 <li>sass (scss) 1.58.3</li>
 <li>sass-loader 13.2.0</li>
@@ -26,7 +28,7 @@ A Todo web app created using spring boot 3 with Java 17 and H2 database on backa
 <li>axios 1.3.4</li>
 <li>vue-tsc 1.2.0</li>
 <li>-> vue3 composition with Typescript <-</li>
-</ol>
+</ul>
 
 </p>
 
