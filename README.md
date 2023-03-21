@@ -23,7 +23,7 @@ A Todo web app created using spring boot 3 with Java 17 and H2 database on backa
 <li>Typescript 4.8.4</li>
 <li>sass (scss) 1.58.3</li>
 <li>sass-loader 13.2.0</li>
-<li>vou-router 4.1.6</li>
+<li>vue-router 4.1.6</li>
 <li>vite 4.1.4</li>
 <li>axios 1.3.4</li>
 <li>vue-tsc 1.2.0</li>
